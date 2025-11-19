@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>menu</title>
+        <style>
+            nav{
+                width: 300px;
+                height: 0;
+                background-color: beige;
+                transition: height 0.5s ease;
+                overflow:hidden;
+                color:brown;
+            }
+            nav.open{
+                height:100px;
+            }
+        </style>
+    </head>
+    <body>
+       <button onclick="document.querySelector('nav').classList.toggle('open')">Menu</button>
+       <nav>
+        <p>Home</p>
+        <p>about</p>
+
+       </nav>
+        
+    </body>
+</html>
