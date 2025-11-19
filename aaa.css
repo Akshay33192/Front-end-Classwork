@@ -1,0 +1,19 @@
+.nav-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 45px;
+    background-color: aquamarine;
+
+}
+.nav-menu li{
+    display: inline;
+    padding: 25px;
+    text-align:inherit;
+    background-color: black;
+}
+.nav-menu li a{
+    color: aliceblue;
+}
+.nav-menu li a:hover{
+    background-color: brown;
+}
