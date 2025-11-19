@@ -1,0 +1,10 @@
+.menu{
+    list-style: none;
+    position: relative;
+    font-size: 50px;
+}
+.sub{
+    display: none;
+    background-color: aliceblue;
+    font-size: 20px;
+}
