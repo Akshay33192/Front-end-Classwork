@@ -1,0 +1,28 @@
+.div1{
+    color: white;
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+    height: 150px;
+    padding: 30px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background: linear-gradient(to top, black, grey);
+}
+.div1:hover{
+    color: rgb(221, 243, 160);
+    background:linear-gradient(to bottom,rgb(163, 114, 247),rgb(209, 234, 118)) ;
+}
+.btn{
+    width: 55px;
+    margin: auto;
+    height: 25px;
+    color: blanchedalmond;
+    background: linear-gradient(to left,green,blue);
+}
+.btn:hover{
+    color: rgb(238, 10, 154);
+    background: linear-gradient(to right,rgb(245, 245, 80),rgb(116, 212, 245));
+}

@@ -1,0 +1,11 @@
+body{
+    background-color:burlywood;
+}
+#name{
+    color: rgb(252, 248, 249);
+    background-color: rgb(246, 11, 11);
+}
+.dd{
+    color: pink;
+    background-color: black;
+}
